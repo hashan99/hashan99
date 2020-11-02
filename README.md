@@ -1,4 +1,4 @@
-### Hi there, I'm Hashan - aka hashan99 👋
+### Hi there, I'm hashan99 👋
 
 <!--
 **hashan99/hashan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
