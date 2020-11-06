@@ -1,5 +1,5 @@
 ### Hi there, I'm hashan99 👋
-UCSC CS Undergraduate
+| UCSC CS Undergraduate |
 
 <!--
 **hashan99/hashan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
