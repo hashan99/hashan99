@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hashan99&show_icons=true&theme=dark)
 <br>
+![](https://visitor-badge.glitch.me/badge?page_id=hashan99)
 <br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashan99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
