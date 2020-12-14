@@ -1,8 +1,8 @@
-# Hello, folks! <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hashan99)
 
-<img align="right" alt="GIF" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif" width="450" height="235" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" height="235" />
 
 I am a Computer Science Undergraduate from Sri Lanka and currently studying in University of Colombo School of Computing.
 
