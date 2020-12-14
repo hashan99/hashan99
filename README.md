@@ -10,7 +10,7 @@ I am interested in IoT, Gaming and Software Development.
 
 <!--<a href="https://www.facebook.com/hashan.c.kumarasinghe/"><img height="30" src="https://1.bp.blogspot.com/-WSdqH3gMHDk/U-xndvvQYrI/AAAAAAAABwg/9OLHbIjiTF8/s1600/facebook%2Blogo%2Bpng%2Btransparent%2Bbackground.png?raw=true"></a>-->
 <a href="https://www.linkedin.com/in/hashan-chandima-910049196/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-<a href="https://www.instagram.com/hashan_hck98/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>
+<a href="https://www.instagram.com/hashan_hck98/"><img height="30" src="https://res.cloudinary.com/db957qd0z/image/upload/v1607960103/logos/580b57fcd9996e24bc43c521_mqlrxx.png?raw=true"></a>
 <a href="https://www.buymeacoffee.com/hashan99"><img height="30" src="https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg?raw=true"></a>&nbsp;&nbsp;
 
 
