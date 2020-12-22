@@ -10,11 +10,8 @@ I am interested in IoT, Gaming and Software Development.
 
 <!--<a href="https://www.facebook.com/hashan.c.kumarasinghe/"><img height="30" src="https://1.bp.blogspot.com/-WSdqH3gMHDk/U-xndvvQYrI/AAAAAAAABwg/9OLHbIjiTF8/s1600/facebook%2Blogo%2Bpng%2Btransparent%2Bbackground.png?raw=true"></a>-->
 <a href="https://dev.to/hashan99"><img src="https://res.cloudinary.com/db957qd0z/image/upload/v1608641948/logos/dev-lite_mv4etz.png" alt="Hashan Kumarasinghe's DEV Profile" height="30" width="30"></a>
-
 <a href="https://www.linkedin.com/in/hashan-chandima-910049196/"><img height="30" src="https://res.cloudinary.com/db957qd0z/image/upload/v1608641948/logos/linkedin-lite_z5zdw6.png?raw=true"></a>
-
 <a href="https://www.instagram.com/hashan_hck98/"><img height="30" src="https://res.cloudinary.com/db957qd0z/image/upload/v1608641948/logos/instagram-lite_ipn5tw.png?raw=true"></a>
-
 <a href="https://twitter.com/hashan_99/"><img height="30" src="https://res.cloudinary.com/db957qd0z/image/upload/v1608641948/logos/twitter-lite_wlvabk.png?raw=true"></a>
 <!--<a href="https://www.buymeacoffee.com/hashan99"><img height="30" src="https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg?raw=true"></a>-->&nbsp;&nbsp;
 
